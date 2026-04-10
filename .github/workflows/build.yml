@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    if: github.repository == 'MrCeo265/web-minimal'
+    #if: github.repository == 'MrCeo265/web-minimal'
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
