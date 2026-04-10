@@ -23,7 +23,7 @@ subtitle                 : "Not Your Average Guy" # site tagline that appears be
 name                     : "Aidan Willett"
 description              : "Aidan Willett's personal website for professional development."
 url                      : https://mrceo265.github.io  # Your actual base URL
-baseurl                  : "/web-minimal"  # Changed from "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
+baseurl                  : /web-minimal  # Changed from "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "MrCeo265/web-minimal" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : MrCeo265/web-minimal/assets/images/catppuccin_latte-skin-archive-large.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
